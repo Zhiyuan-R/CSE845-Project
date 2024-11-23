@@ -60,15 +60,3 @@ PacketFlowAI provides flexibility, allowing you to customize the model architect
 ## Key Concepts in PacketFlowAI
 - Hyperdimensional Computing: A novel approach where data is represented as high-dimensional vectors (hypervectors), which offers increased robustness to noise and scalability in complex environments.
 - Binding and Permutation: Core operations in hyperdimensional computing that encode associations between data and capture sequential information.
-
-## Contributing
-
-Contributions to PacketFlowAI are encouraged! If you have ideas for improvement, new features, or bug fixes, please submit a pull request or open an issue. Together, we can make PacketFlowAI more robust and feature-rich.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-=======
-# CSE845-Project
-Deep Packet Classification. Work with Girish!
->>>>>>> origin/main
