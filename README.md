@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PacketFlowAI
 PacketFlowAI is a cutting-edge network security tool that uses Hyperdimensional Computing (HDC) to classify network packets in real-time. By transitioning from traditional Convolutional Neural Networks (CNN) to hyperdimensional computing, PacketFlowAI delivers improved robustness, scalability, and efficiency for packet classification. It leverages PyTorch for model development and Scapy for real-time packet capture and processing, providing a powerful solution for detecting and classifying various types of network traffic.
 
@@ -68,3 +69,7 @@ Contributions to PacketFlowAI are encouraged! If you have ideas for improvement,
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# CSE845-Project
+Deep Packet Classification. Work with Girish!
+>>>>>>> origin/main
